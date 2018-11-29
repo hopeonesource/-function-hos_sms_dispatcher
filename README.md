@@ -10,7 +10,7 @@ This Drupal 8 module dispatches text messages/alert to the sms provider to send 
 
 * message/alert status code
 
-The production ready code base for this module will reside on the <b>'Master'</b> branch. 
+The production ready code base for this module will reside on the <b>'Master'</b> branch of the original repository.
 
 ### How to contribute
 Github <b>Issues</b> will be used to keep track of tasks, enhancements, and bugs for this module project.
